@@ -21,7 +21,7 @@ A mobile application built with **React Native CLI**, allowing users to log in, 
 
 ## 📸 Screenshots 
 
->  screenshots of your app running on emulator
+>  screenshots 
 > <img width="586" height="922" alt="Captura de pantalla 2025-07-10 223648" src="https://github.com/user-attachments/assets/73183c0a-8b1e-4e06-993d-8b289b16fff3" />
 
 <img width="592" height="908" alt="Captura de pantalla 2025-07-10 223733" src="https://github.com/user-attachments/assets/a2e92a19-5e27-4c7c-9a39-cfa5bbbd823d" />
